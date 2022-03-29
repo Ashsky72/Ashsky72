@@ -1,11 +1,11 @@
  <h1 align="center">Hello there 👋</h1>
 <h3 align="center">Welcome to my page. I am Ashish Kumar. I am a data analyst 📊, but that's just a title. In reality, I transform data into useful, actionable insights. But why is that necessary? Well, the credibility and success of your business depends on the decisions you make daily. Hence, ensuring those decisions are realistic and data-driven will position you to be successful. And my job is to do this for you.</h3>
  
-- 🌱 I’m currently learning **Sql**
+- I’m currently learning **Sql**
 
-- 💬 Ask me about **Blockchain**
+- Ask me about **Blockchain**
 
-- 📫 How to reach me **ashsky72@gmail.com**
+- How to reach me **ashsky72@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
