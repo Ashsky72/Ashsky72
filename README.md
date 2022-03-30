@@ -1,8 +1,8 @@
 <h1 align="center">Hello there 👋</h1>
 <img src="./assets/data science.gif"/>
-<h6 align="centre">Welcome to my page.</h6>
+<h3 align="centre">Welcome to my page</h3>
 
-<h7> My name is Ashish Kumar. I am a data analyst 📊, but that's just a title. In reality, I transform data into useful, actionable insights. But why is that necessary? Well, the credibility and success of your business depends on the decisions you make daily. Hence, ensuring those decisions are realistic and data-driven will position you to be successful. And my job is to do this for you.</h7>
+<h8> My name is Ashish Kumar. I am a data analyst 📊, but that's just a title. In reality, I transform data into useful, actionable insights. But why is that necessary? Well, the credibility and success of your business depends on the decisions you make daily. Hence, ensuring those decisions are realistic and data-driven will position you to be successful. And my job is to do this for you.</h8>
  
 - I’m currently learning **Sql**
 
