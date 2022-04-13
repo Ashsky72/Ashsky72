@@ -6,7 +6,7 @@
  
 - I’m currently learning **Sql**
 
-- Ask me about **Blockchain**
+- Ask me about **Blockchain**, **Data Science**
 
 - Reach me at **ashsky72@gmail.com**
 
